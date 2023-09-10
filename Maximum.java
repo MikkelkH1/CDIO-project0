@@ -10,6 +10,8 @@ class Maximum {
 
         int max = Math.max(Math.max(a, b), c);
 
-        System.out.println("The max value is " + max);
+        System.out.println("The max value is " + max);    
+
+        System.out.println("first fucking commit");
     }
 }
