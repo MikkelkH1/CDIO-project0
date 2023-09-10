@@ -12,6 +12,6 @@ class Maximum {
 
         System.out.println("The max value is " + max);    
 
-        System.out.println("first fucking commit");
+        System.out.println("first fucking comit");
     }
 }
